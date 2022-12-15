@@ -2,5 +2,5 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Доброе утро!");
 Console.WriteLine("Пока");
-Console.WriteLine("Здравсвуйте");
+Console.WriteLine("Здравствуйте");// Добавил "т" 
 Console.WriteLine("Ну все, конец");
